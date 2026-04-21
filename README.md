@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-![Product List Screen](images/3.png)
-![Product Details Screen](images/4.png)
-![SnackBar Message](images/5.png)
+![Product List Screen](lib/images/3.png)
+![Product Details Screen](lib/images/4.png)
+![SnackBar Message](lib/images/5.png)
 
